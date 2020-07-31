@@ -1,0 +1,3 @@
+2020-06-21 11:23:50,164  INFO [main] Demo:10 - Hello
+2020-06-21 11:23:50,167 DEBUG [main] Demo:11 - This is Debug
+2020-06-21 11:23:50,168 ERROR [main] Demo:12 - this is error message
