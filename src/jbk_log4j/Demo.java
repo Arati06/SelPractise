@@ -11,6 +11,7 @@ public class Demo {
 		log.info("Hello");
 		log.debug("This is Debug");
 		log.error("This is error message");
+		System.out.println("Added code");
 	}
 
 }
